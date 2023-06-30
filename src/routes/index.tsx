@@ -8,7 +8,7 @@ export default function Home() {
       <h1>Hello world!</h1>
       <Counter />
       <p>
-   YXL990 is a project by Hasani.
+   [ YXL990 is a project by Hasani. ]
       </p>
     </main>
   );
