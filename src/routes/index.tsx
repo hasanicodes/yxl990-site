@@ -8,7 +8,7 @@ export default function Home() {
       <h1>Hello world!</h1>
       <Counter />
       <p>
-   [ A Hasani Codes Project ]
+   [ An Hasani Codes Project ]
       </p>
     </main>
   );
