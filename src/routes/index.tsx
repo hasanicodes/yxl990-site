@@ -8,7 +8,7 @@ export default function Home() {
       <h1>Hello world!</h1>
       <Counter />
       <p>
-   [ Long live Black Emperor ]
+   [ Long Live Black Emperor 👑]
       </p>
     </main>
   );
